@@ -1,0 +1,58 @@
+/*
+		Theme Name: rvaMagazineWP
+		Theme URI: 
+		Author: Matthew
+		Author URI: http://unfork.me
+		Description: RVA Magazine Theme
+		Version: 1.0
+		Licence: GNU General Public licence or later
+		Tags: RVA
+*/
+
+
+*,
+*:after,
+*:before {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.yellow {
+  color:#f0ee3b; /* #fff200 240 238 059 */
+}
+
+
+
+/* 
+ Typography notes...
+ Fonts: Whitney, Gotham, Times
+        <h1> Whitney, bold 60pt
+        <h2> whitney condensed 30pt
+        <h3> whitney condensed 
+        <h4> 
+        <a>
+        <blockquote>
+        <q>
+
+        <nav> Gotham Bold Regular
+        <p> whitney condensed medium 24pt
+        
+        
+        yellow #240 
+        Times, 
+*/
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, "Open Sans", sans-serif;
+  font-size: 140%;
+  line-height: 1.5;
+  color: #444444;
+  background-color: white;
+	margin: 0;
+	padding: 0;
+}
